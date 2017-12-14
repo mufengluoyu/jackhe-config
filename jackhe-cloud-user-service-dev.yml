@@ -1,8 +1,6 @@
 server:
   port: 8010
 spring:
-  application:
-    name: jackhe-cloud-user-service
   jpa:
     generate-ddl: false
     show-sql: true
